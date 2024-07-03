@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on computing tools
 - 📫 How to reach me : Currently in Mars , Will reach earth soon 
 - 😄 Pronouns: Alien
-- ⚡ Fun fact: Elepjant is a land animal !
+- ⚡ Fun fact: Elephant is a land animal !
 
 <!---
 V-Dustie/V-Dustie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
